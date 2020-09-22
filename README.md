@@ -1,3 +1,5 @@
+> :warning: **This project has been moved.** After my initial development, this project got adopted by Tobit.Labs and now lives [here](https://github.com/TobitSoftware/chayns-toolkit) under the name `chayns-toolkit`.
+
 <div align="center">
     <h1><img src="assets/logo.png" width="500px" alt="chayns-scripts" /></h1>
     <p>A zero-config toolchain for developing chayns® apps.</p>
